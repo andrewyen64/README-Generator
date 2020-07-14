@@ -93,7 +93,7 @@ function writeToFile(fileName, data) {
 function init() {
     promptUser(questions).then(function(data){
         console.log(data);
-        writeToFile("README.md", generateMarkdown(data))
+        writeToFile("README_EX.md", generateMarkdown(data))
     })
 }
 
