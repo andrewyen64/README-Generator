@@ -36,7 +36,7 @@ ${data.tests}
 
 ## Questions
 
-* Github: https://github.com/${data.github}
+* Github: <https://github.com/${data.github}>
 
 * Email: ${data.email}
 
