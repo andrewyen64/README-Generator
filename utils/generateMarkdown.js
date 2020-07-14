@@ -36,16 +36,15 @@ ${data.tests}
 
 ## Questions
 
-- Github: https://github.com/${data.github}
+* Github: https://github.com/${data.github}
 
-- Email: ${data.email}
+* Email: ${data.email}
 
 ## License
 
 ${data.license}
 
 Copyright © ${data.year} ${data.fullName} 
-
 `;
 }
 
