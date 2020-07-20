@@ -44,6 +44,8 @@ ${data.tests}
 ${data.license} License
 
 Copyright © ${data.year} ${data.fullName}
+
+[Link to License File](LICENSE)
 `;
 }
 
