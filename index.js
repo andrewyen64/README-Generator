@@ -63,7 +63,7 @@ function promptUser() {
       type: "list",
       name: "license",
       message: questions[8],
-      choices: ["Apache", "GNU", "MIT"]
+      choices: ["Apache", "GNU_v3.0", "MIT"]
     },
     {
       type: "input",
