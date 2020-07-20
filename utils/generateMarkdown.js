@@ -41,9 +41,9 @@ ${data.tests}
 
 ## License
 
-${data.license}
+${data.license} License
 
-Copyright © ${data.year} ${data.fullName} 
+Copyright © ${data.year} ${data.fullName}
 `;
 }
 
